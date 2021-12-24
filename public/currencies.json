@@ -1,0 +1,307 @@
+{
+  "status": "ok",
+  "updateDate": 1640020380383,
+  "lastModifiedDate": 1640020320474,
+  "currencies": {
+    "MATIC": {
+      "fullName": "Polygon",
+      "displayName": "matic",
+      "img": "https://static.zondaglobal.com/icons/matic_79e664bf267668d1ee94e13b319e60c23270ff9655c5353d4cd6d43721c227ab.svg"
+    },
+    "EXY": {
+      "fullName": "Experty",
+      "displayName": "exy",
+      "img": "https://static.zondaglobal.com/icons/exy_7515fd378dd84a83135905eacb96cb53165455c7fc43558cd169e24b272b63ee.svg"
+    },
+    "PAY": {
+      "fullName": "TenX",
+      "displayName": "pay",
+      "img": "https://static.zondaglobal.com/icons/pay_990310cc0bd9ea1e729d571aab0fe20741a8fffc448402b4462548084b0010ab.svg"
+    },
+    "USDT": {
+      "fullName": "Tether",
+      "displayName": "usdt",
+      "img": "https://static.zondaglobal.com/icons/usdt_0bd3659242ace63ee507adfc855f04c654a69d9e517af5b719043f302b5a3073.svg"
+    },
+    "DOGE": {
+      "fullName": "Dogecoin",
+      "displayName": "doge",
+      "img": "https://static.zondaglobal.com/icons/dogecoin_0ebafd47d318f054da4dbf876033f04b34ad1336e27dbeded79afe06717eb428.svg"
+    },
+    "SXP": {
+      "fullName": "Swipe",
+      "displayName": "sxp",
+      "img": "https://static.zondaglobal.com/icons/sxp_8bf5cf37f2658e2faa5a83c01015e43ba5349c130d52fa850aa797e472807a3e.svg"
+    },
+    "DASH": {
+      "fullName": "Dash",
+      "displayName": "dash",
+      "img": "https://static.zondaglobal.com/icons/dash_546e26eda96c2a08118d5a5158dbde5b5bbc97764c51c083c9f146e59b3a80a8.svg"
+    },
+    "COMP": {
+      "fullName": "Compound",
+      "displayName": "comp",
+      "img": "https://static.zondaglobal.com/icons/comp_ecef8d24c9c9bfccde31cb61c3c7bc6a214f9223330f7e551a02d0eb578b5c55.svg"
+    },
+    "BOB": {
+      "fullName": "Bob's Repair",
+      "displayName": "bob",
+      "img": "https://static.zondaglobal.com/icons/bob_097ff86552e3beea4abab2177d22e54eb0b24b83d76ae9e38966612e87e8db1f.svg"
+    },
+    "CHZ": {
+      "fullName": "Chiliz",
+      "displayName": "chz",
+      "img": "https://static.zondaglobal.com/icons/chz_1f0c4120e7a518d1ac74258f66ff8ca85ca4788badc4e66a36e2b58bcbaff78c.svg"
+    },
+    "XRP": {
+      "fullName": "XRP",
+      "displayName": "xrp",
+      "img": "https://static.zondaglobal.com/icons/xrp_8bf102e7676cfdb6424160fe6528679c4170a11507b4a3762eaf0c67634d3869.svg"
+    },
+    "NPXS": {
+      "fullName": "Pundi X",
+      "displayName": "npxs",
+      "img": "https://static.zondaglobal.com/icons/npxs_6a670b73b3bde6edb2d86a0f333f313c6f6773c6687f6a04ff5d7801d87d2fb7.svg"
+    },
+    "TRX": {
+      "fullName": "Tron",
+      "displayName": "trx",
+      "img": "https://static.zondaglobal.com/icons/trx_d56ddc50e03739371190b054dfacaae795800469b92ccf488dd6a6854ff0c636.svg"
+    },
+    "ZRX": {
+      "fullName": "0x",
+      "displayName": "zrx",
+      "img": "https://static.zondaglobal.com/icons/zrx_1cb602d3559abec15676640feebda3a4e376fc52d81387ffe18c5a52c015756c.svg"
+    },
+    "BCC": {
+      "fullName": "Bitcoin Cash",
+      "displayName": "bcc",
+      "img": "https://static.zondaglobal.com/icons/bcc_0d539b54d6943769dabb8ce851383fa39ceb2d256b0c4c33ce5c56b660565720.svg"
+    },
+    "BSV": {
+      "fullName": "Bitcoin SV",
+      "displayName": "bsv",
+      "img": "https://static.zondaglobal.com/icons/bsv_7c8e0324063b23f76f001c976beeb6b24a3d6d50ed5d88486a52c448001a7bf9.svg"
+    },
+    "LSK": {
+      "fullName": "Lisk",
+      "displayName": "lsk",
+      "img": "https://static.zondaglobal.com/icons/lsk_ef5fde2c3c0f3172d7de2b1a6a3b9c612cb15452226e58fcd18d888100a21e5f.svg"
+    },
+    "OMG": {
+      "fullName": "OMG Network",
+      "displayName": "omg",
+      "img": "https://static.zondaglobal.com/icons/omg_51b9e344ffd26d458d697784d1ee041fb89b4d90a7a15b55557f1a3b032ec577.svg"
+    },
+    "DOT": {
+      "fullName": "Polkadot",
+      "displayName": "dot",
+      "img": "https://static.zondaglobal.com/icons/dot_1e1463b8304155e84dd5bbe9ea7448f5b39639c784d82d3edf3564ec206e0f59.svg"
+    },
+    "AMLT": {
+      "fullName": "AMLT",
+      "displayName": "amlt",
+      "img": "https://static.zondaglobal.com/icons/amlt_9bdcbe77be0af0fc4583eaad250b9d755b0f4c0f2c4f04247b6daba0b33550cb.svg"
+    },
+    "BCP": {
+      "fullName": "Blockchain Poland",
+      "displayName": "bcp",
+      "img": "https://static.zondaglobal.com/icons/bcp_5d2b6c6541df6484c3c661fdef1e8f69445c6ea22e4c58a83b10c10ec82b3c0a.svg"
+    },
+    "XBX": {
+      "fullName": "Bitex Global XBX Coin",
+      "displayName": "xbx",
+      "img": "https://static.zondaglobal.com/icons/xbx_68f0f93ed402e48eab9143e4121193e6b17149f18385eaef468633f444db2f2d.svg"
+    },
+    "BTC": {
+      "fullName": "Bitcoin",
+      "displayName": "btc",
+      "img": "https://static.zondaglobal.com/icons/btc_aeed3e84725236f1879535c85901a4418915398bb8361ab7004f024ea5cb1fff.svg"
+    },
+    "REEF": {
+      "fullName": "Reef Finance",
+      "displayName": "reef",
+      "img": "https://static.zondaglobal.com/icons/reef_b0d5b5bfa3b74ea04c5402793f0176698aa9ee4dca05deb1226058ba2bdd6912.svg"
+    },
+    "AVAX": {
+      "fullName": "Avalanche",
+      "displayName": "avax",
+      "img": "https://static.bitbay.net/icons/avax_2d43792a17317330e50cf0bc3eccade5f359f32dd2e33e17a59cd97daad12216.svg"
+    },
+    "BTG": {
+      "fullName": "Bitcoin Gold",
+      "displayName": "btg",
+      "img": "https://static.zondaglobal.com/icons/btg_e3e06eb01696dbb09b87f9cb9187624314eabe603ed91afafe351c2b1a1dac93.svg"
+    },
+    "ATRI": {
+      "fullName": "Atari Token",
+      "displayName": "atri",
+      "img": "https://static.zondaglobal.com/icons/atari_26fbb965ffcfae221a1006a8636c911a628d7bea4f64618d261966bf71ed8a53.svg"
+    },
+    "LTC": {
+      "fullName": "Litecoin",
+      "displayName": "ltc",
+      "img": "https://static.zondaglobal.com/icons/ltc_c15405041ff46d279e8d2aabbe14b53b0621e9b5544399d04b1cfa36c2736e6b.svg"
+    },
+    "USDC": {
+      "fullName": "USD Coin",
+      "displayName": "usdc",
+      "img": "https://static.zondaglobal.com/icons/usdc_d8d86ee8497e09a9eafda5ee726aa87c752c754fd643feba1ed798185ea85696.svg"
+    },
+    "FTM": {
+      "fullName": "Fantom",
+      "displayName": "ftm",
+      "img": "https://static.zondaglobal.com/icons/ftm_c098f5500ea71e0d26da2654a2115947ce3048d2e8893bb51dd3485b40d42356.svg"
+    },
+    "PUNDIX": {
+      "fullName": "Pundi X Token",
+      "displayName": "pundix",
+      "img": "https://static.zondaglobal.com/icons/pundix_1b0d843009f60a3c1d8bff290ea664db84798de1bc75bb743a0bab3a82479220.svg"
+    },
+    "ENJ": {
+      "fullName": "Enjin Coin",
+      "displayName": "enj",
+      "img": "https://static.zondaglobal.com/icons/enj_78189aa8bdfd5150b2faa51d88b87e90d6380c41226243de4e0175cf9a83383e.svg"
+    },
+    "WIS": {
+      "fullName": "Experty Wisdom Token",
+      "displayName": "wis",
+      "img": "https://static.zondaglobal.com/icons/wis_1cd12c704c4911ed553a8e07f06f52720b61de93250b402b53fe5e42887a591a.svg"
+    },
+    "GRT": {
+      "fullName": "The Graph",
+      "displayName": "grt",
+      "img": "https://static.zondaglobal.com/icons/grt_9c928be093852a0dc4c835a06cdb83d0daaeaa3d293458cdae6d90455ded822e.svg"
+    },
+    "SUSHI": {
+      "fullName": "SushiSwap",
+      "displayName": "sushi",
+      "img": "https://static.zondaglobal.com/icons/sushi_0f4b2dc285669940189880d911321c680643ec959c30fab14f82315b43568205.svg"
+    },
+    "GNT": {
+      "fullName": "Golem",
+      "displayName": "gnt",
+      "img": "https://static.zondaglobal.com/icons/gnt_8f8ba44e68821c1775b24e12e1994101710d95b400f8e03e02313dbeb6d1f00e.svg"
+    },
+    "SRN": {
+      "fullName": "SIRIN LABS Token",
+      "displayName": "srn",
+      "img": "https://static.zondaglobal.com/icons/srn_688c6da43291b735f4c2e5b43f74c4a09e38b8e661dbe3530f27bd8bfa3f767e.svg"
+    },
+    "AAVE": {
+      "fullName": "Aave",
+      "displayName": "aave",
+      "img": "https://static.zondaglobal.com/icons/aave_8e15964c23f63f91f12db21e0492827c32795b59e24b7ba2f4069f0f6fb0c8a9.svg"
+    },
+    "UNI": {
+      "fullName": "Uniswap",
+      "displayName": "uni",
+      "img": "https://static.zondaglobal.com/icons/uni_10d9ff583f75ea394149b910a2f53adfee2c09c49943c87314f4075336d45531.svg"
+    },
+    "GAME": {
+      "fullName": "GameCredits",
+      "displayName": "game",
+      "img": "https://static.zondaglobal.com/icons/game_9797b156e03ddae150e63189641e39b0ba162670236ddadad461fea0c47b312d.svg"
+    },
+    "XLM": {
+      "fullName": "Stellar",
+      "displayName": "xlm",
+      "img": "https://static.zondaglobal.com/icons/xlm_19e3b9908ad5bf9004ee28756ad93f9ced09e2793883350fbd7a98ce76740428.svg"
+    },
+    "LINK": {
+      "fullName": "Chainlink",
+      "displayName": "link",
+      "img": "https://static.zondaglobal.com/icons/link_fd391c9538c8f2e6abeec305600392c8dc7093498a01982d525af1c00b34de0b.svg"
+    },
+    "LUNA": {
+      "fullName": "Terra LUNA",
+      "displayName": "luna",
+      "img": "https://static.zondaglobal.com/icons/luna_0bbe372f38591f23050d98ad05482162b07572669f8ad88499867c2add16203d.svg"
+    },
+    "XTZ": {
+      "fullName": "Tezos",
+      "displayName": "xtz",
+      "img": "https://static.zondaglobal.com/icons/xtz_9724eae8d70c5a101a345ce673cb2b3eb621e91b53e64d3f08dbeac95098d8f9.svg"
+    },
+    "GGC": {
+      "fullName": "Global Game Coin",
+      "displayName": "ggc",
+      "img": "https://static.zondaglobal.com/icons/ggc_1d555f0f8365d214ebbc6fe223a7c646189e797ba41f63173520f154a29cb4ba.svg"
+    },
+    "MANA": {
+      "fullName": "Decentraland",
+      "displayName": "mana",
+      "img": "https://static.zondaglobal.com/icons/mana_6cdf94759cfebf2e7b1aa4c71826984c05a7441678d25c20f6becb34feb37e11.svg"
+    },
+    "EOS": {
+      "fullName": "Eosio",
+      "displayName": "eos",
+      "img": "https://static.zondaglobal.com/icons/eos_01eaf2f227f13d4910f17350e5d4791945dbfe9a6d07e4d969b7442af5887453.svg"
+    },
+    "LML": {
+      "fullName": "Link Machine Learning",
+      "displayName": "lml",
+      "img": "https://static.zondaglobal.com/icons/lml_72fe2798c1a704a4eb748d49a293088a682d50eeefc339f6c0385d2e14084f6e.svg"
+    },
+    "QARK": {
+      "fullName": "QANplatform",
+      "displayName": "qark",
+      "img": "https://static.zondaglobal.com/icons/qark_44e432530b7761080b279a70cdee9fb1b62a2ff82dd3057b465730b34b9b5c9e.svg"
+    },
+    "DAI": {
+      "fullName": "Dai",
+      "displayName": "dai",
+      "img": "https://static.zondaglobal.com/icons/dai_ecc16cd129c33f45d34d2b0ac6db41b4b6e86dcab00af636a30e615b483fd2a3.svg"
+    },
+    "SGB": {
+      "fullName": "Songbird",
+      "displayName": "sgb",
+      "img": "https://static.bitbay.net/icons/sgb_53441e58e072f5fa8457202f97249a12624b565dc7823349e93e68f599d7b966.svg"
+    },
+    "BAT": {
+      "fullName": "Basic Attention Token",
+      "displayName": "bat",
+      "img": "https://static.zondaglobal.com/icons/bat_6db4d9ce88b9ef1038095cc0a7fdd2816ee23d90f0b42e255d57565b505bd541.svg"
+    },
+    "MKR": {
+      "fullName": "Maker",
+      "displayName": "mkr",
+      "img": "https://static.zondaglobal.com/icons/mkr_ce534703d10eed1f2814d7af5481f8a4cb209b90a722db00695079d7ef1fb32b.svg"
+    },
+    "ETH": {
+      "fullName": "Ethereum",
+      "displayName": "eth",
+      "img": "https://static.zondaglobal.com/icons/eth_2c8cc4a90aad616143f7f917176c1b3965843e957e4d42ce00a70ce56952feaa.svg"
+    },
+    "ZEC": {
+      "fullName": "Zcash",
+      "displayName": "zec",
+      "img": "https://static.zondaglobal.com/icons/zec_282d830b1a6767279a742816ccf281d6e99813e6d90b2b3896cf1c892a2c79b5.svg"
+    },
+    "XIN": {
+      "fullName": "Infinity Economics",
+      "displayName": "xin",
+      "img": "https://static.zondaglobal.com/icons/xin_7770833759b7ecce47557e472f59524da8bd5707e0beec9684c15b0fd5d51059.svg"
+    },
+    "REP": {
+      "fullName": "Augur v2",
+      "displayName": "REPv2",
+      "img": "https://static.zondaglobal.com/icons/rep_0734b76930c7b0d1333fcb8f57e43df583d906362fce9c67104a2f4e043d458a.svg"
+    },
+    "ALG": {
+      "fullName": "Algory Project",
+      "displayName": "alg",
+      "img": "https://static.zondaglobal.com/icons/alg_3e3f46885d14a90b0f84d82aa7ec34be2d0d23c4946c2c46bde3c60d8c28430f.svg"
+    },
+    "ADA": {
+      "fullName": "Cardano",
+      "displayName": "ada",
+      "img": "https://static.zondaglobal.com/icons/ada_2735fb659cafbdb9171bca2beaafdfb057f48766875548449ad8ded717d56d4e.svg"
+    },
+    "NEU": {
+      "fullName": "Neumark",
+      "displayName": "neu",
+      "img": "https://static.zondaglobal.com/icons/neu_c3b9265332a2189a07d92ef07e1f0dd67b3664a81e0bf7f8dcb7a5377f7904cd.svg"
+    }
+  }
+}

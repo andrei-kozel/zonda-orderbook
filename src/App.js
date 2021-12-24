@@ -126,6 +126,7 @@ const OrderBook = () => {
         activePair={activePair}
         onClick={setActivePair}
       />
+
       <div className="flex w-full justify-center">
         <div className="border-4 border-neutral-800 w-2/5">
           <Head currencyArray={currencyArray} title={"Bids"} />
